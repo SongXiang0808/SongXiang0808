@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=SongXiang0808)]()
 
+- 🍻 Junior at 🇨🇳 [WHU](https://www.whu.edu.cn), _BSc in EE_
+- ⚡ C++ / Python.
+- ✍️ [Blogger](https://songxiang.xyz)
 - 🔭 I’m currently working on embedded software...
 - 🌱 I’m currently learning... 
 - 👯 I’m looking to collaborate on ...
@@ -31,9 +34,3 @@ Here are some ideas to get you started:
 [![GitHub](https://img.shields.io/github/followers/SongXiang0808
 )](https://github.com/SongXiang0808)
 ![GitHub followers](https://img.shields.io/github/followers/SongXiang0808)
-
-
-
-- 🍻 Junior at 🇨🇳 [WHU](https://www.whu.edu.cn), _BSc in EE_
-- ⚡ C++ / Python.
-- ✍️ [Blogger](https://songxiang.xyz)
