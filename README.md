@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=SongXiang0808)]()
+[![我的 GitHub 数据](https://github-stats-alpha.vercel.app/api?username=SongXiang0808)]()
 
 - 🍻 Junior at 🇨🇳 [WHU](https://www.whu.edu.cn), _BSc in EE_
 - ⚡ C++ / Python.
