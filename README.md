@@ -39,8 +39,27 @@ Here are some ideas to get you started:
 </div>
 
 ## 📇 &nbsp;Coding Stats
-![GitHub stats](https://github-readme-stats.zohan.tech/api?username=SongXiang0808&show_icons=true&theme=radical)
-<!-- ![TopLanguage](https://github-readme-stats.zohan.tech/api/top-langs/?username=SongXiang0808&langs_count=15&layout=compact&theme=radical) -->
+<!-- ![GitHub stats](https://github-readme-stats.zohan.tech/api?username=SongXiang0808&show_icons=true&theme=radical) -->
+
+<div style="text-align: center;">
+  <img src="https://github-readme-stats.zohan.tech/api?username=SongXiang0808&show_icons=true&theme=radical" alt="GitHub stats">
+</div>
+
+
+<!-- ![TopLanguage](https://github-readme-stats.zohan.tech/api/top-langs/?username=SongXiang0808&langs_count=15&layout=compact&theme=radical)
+
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.zohan.tech/api?username=SongXiang0808&show_icons=true&theme=radical" alt="GitHub stats">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=SongXiang0808&langs_count=15&layout=compact&theme=radical" alt="Top Languages">
+    </td>
+  </tr>
+</table> -->
+
 
 <hr>
 <h3 align="center">VISITOR COUNT :  <img align="center" src="https://profile-counter.glitch.me/SongXiang0808/count.svg"/><sub>- Starting from 2024/07/18. -</sub></h3>
